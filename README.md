@@ -37,7 +37,7 @@
     <input type="text" id="password" placeholder="Escribe aquí...">
     <button onclick="checkPassword()">Enviar</button>
     <div id="mensaje-error" style="color: red; margin-top: 10px;"></div>
-    <div class="pista" id="pista">🔍 Siguiente pista: <em>link de youtube</em></div>
+    <div class="pista" id="pista">🔍 Siguiente pista: <em>https://youtube.com/shorts/dhb8bNzR0lc?si=A5QYSkW-4iTjqElF</em></div>
 
     <script>
         function checkPassword() {
