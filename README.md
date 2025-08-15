@@ -33,11 +33,11 @@
 </head>
 <body>
     <h1>Introduce la contraseña</h1>
-    <p>Pista para la contraseña: <strong>Empieza con 'gracias'</strong></p>
+    <p>Pista para la contraseña: <strong>Que te mejores pronto</strong></p>
     <input type="text" id="password" placeholder="Escribe aquí...">
     <button onclick="checkPassword()">Enviar</button>
     <div id="mensaje-error" style="color: red; margin-top: 10px;"></div>
-    <div class="pista" id="pista">🔍 Siguiente pista: <em>que te mejores pronto</em></div>
+    <div class="pista" id="pista">🔍 Siguiente pista: <em>link de youtube</em></div>
 
     <script>
         function checkPassword() {
